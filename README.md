@@ -7,7 +7,7 @@
 
 
 <div>
-  <a href="https://beacons.ai/Ranvernon">10</a>
+  <a href="https://beacons.ai/Ranvernon"></a>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranvernon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
