@@ -3,7 +3,7 @@
 
  ## 📊 Estatísticas do GitHub
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranvernon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Ranvernon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 <div 
