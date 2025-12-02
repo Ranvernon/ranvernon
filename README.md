@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh3NHAyMnFxNXB6ZjkzemxhYjBpOXJlaWZyYmpzM2RhbW1jeXAzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ###
@@ -11,8 +11,7 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ranvernon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  />
+    src="https://github-readme-stats.vercel.app/api?username=Ranvernon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
   <img
     height="180em"
